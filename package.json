@@ -1,0 +1,25 @@
+{
+  "name": "antdProPanel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"umi dev",
+    "build":"umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanranLiu111/antdPro2Build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanranLiu111/antdPro2Build/issues"
+  },
+  "homepage": "https://github.com/RanranLiu111/antdPro2Build#readme",
+  "devDependencies": {
+    "umi": "^2.3.2"
+  }
+}
